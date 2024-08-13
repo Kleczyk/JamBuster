@@ -19,4 +19,4 @@ RUN pip3 install traci
 COPY src/ /usr/src/app
 WORKDIR /usr/src/app
 
-CMD ["python3", "your_script.py"]
+CMD ["python3", "run_simulation.py"]
