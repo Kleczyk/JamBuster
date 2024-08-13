@@ -5,9 +5,11 @@
     </input>
     <time>
         <begin value="0"/>
-        <end value="3600"/>
+        <end value="50000"/>
     </time>
     <gui>
         <start value="true"/>
     </gui>
+     <time-to-teleport value="300"/> <!-- Dostosowuje czas przed teleportacją -->
+    <teleport-log log="true"/> <!-- Loguje teleportowane pojazdy -->
 </configuration>
