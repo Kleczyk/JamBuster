@@ -6,7 +6,7 @@
 
 
     <gui_only>
-        <gui-settings-file value="settings.xml"/>
+        <gui-settings-file value="../settings.xml"/>
      </gui_only>
 
 </configuration>
